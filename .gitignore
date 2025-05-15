@@ -1,0 +1,12 @@
+# Ignore environment variable files
+.env
+
+# Ignore Python cache files
+src/__pycache__/
+__pycache__/
+*.py[cod]
+
+# Ignore uploads directory
+uploads/
+
+src/__init__.py
