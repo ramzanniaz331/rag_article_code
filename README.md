@@ -20,7 +20,7 @@ This project is a **Retrieval-Augmented Generation (RAG)** application that allo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/rag-pdf-app.git
+git clone https://github.com/ramzanniaz331/rag_article_code
 cd rag-pdf-app
 ```
 
